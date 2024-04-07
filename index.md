@@ -9,5 +9,3 @@ Täältä löytyvät tehtäväpalaukset:
 - Viikko 5
 - Viikko 6
 - Harjoitustyö
-</body>
-</html>
